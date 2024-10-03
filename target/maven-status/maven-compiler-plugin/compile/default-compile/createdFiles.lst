@@ -1,0 +1,5 @@
+com\example\demo\controller\EarthquakeController.class
+com\example\demo\DemoApplication.class
+com\example\demo\repository\EarthquakeRepository.class
+com\example\demo\service\EarthquakeService.class
+com\example\demo\model\Earthquake.class
